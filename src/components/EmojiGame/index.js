@@ -1,13 +1,4 @@
-/* 
-Quick Tip 
-- Use the below function in the EmojiGame Component to shuffle the emojisList every time when an emoji is clicked.
-
-*/
-
-// Write your code here.
-
 import {Component} from 'react'
-
 import './index.css'
 import EmojiCard from '../EmojiCard'
 import Win from '../WinOrLoseCard'
