@@ -1,0 +1,29 @@
+/* Write your code here. */
+
+.win-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff30;
+  padding: 20px;
+  border: 1px solid #ffffff30;
+  margin: 3px;
+  border-radius: 8px;
+  box-shadow: 1px 1px 1px 1px #ffffff30;
+}
+.status {
+  width: 150px;
+}
+.head {
+  color: white;
+}
+
+.button {
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background-color: #ffce27;
+  padding: 7px;
+  border-radius: 10px;
+  font-weight: 400;
+}
